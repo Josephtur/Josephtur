@@ -2,7 +2,10 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
   <samp>
-    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Joseph Turmero Full‑Stack Web Developer. 
+    <img src="https://i.gifer.com/T0gT.gif" width="50px">Hola, Soy Joseph Turmero, Desarrollador web Full - Stack.<br>
+    <img src="https://i.gifer.com/26t8.gif" width="50px">Hi, I'm Joseph Turmero Full‑Stack Web Developer. <br>
+    <img src="https://i.gifer.com/JomZ.gif" width="50px">Hallo, ich bin Joseph Turmero Full‑Stack‑Webentwickler. 
+    
   </samp>
 </p>
 <br><br>
@@ -14,7 +17,7 @@
 
 
 ## :pencil2: My Works: :trophy:       
-- [Letskhabar](josephtur.github.io/ProjectJoseph/)
+<img src="https://cdn-icons-png.flaticon.com/512/2463/2463068.png" width="30px"> <h4>josephtur.github.io/ProjectJoseph/<h4/>
 
 
 
@@ -25,8 +28,15 @@
 
 ## :mailbox: Get in touch: 💬
 [<img src="https://static.vecteezy.com/system/resources/previews/022/498/173/original/3d-linkedin-logo-icon-isolated-on-transparent-background-free-png.png" width="30px">](https://www.linkedin.com/in/josephturmero/)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-dev.svg" width="30px">](josephtur.github.io/ProjectJoseph/)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-important-mail.svg" width="30px">](mailto:turmeroro@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/2463/2463068.png" width="30px">](josephtur.github.io/ProjectJoseph/)
+[<img src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png" width="30px">](mailto:turmeroro@gmail.com)
+
+
+<footer>
+  <h5>
+     &copy Dev-Joseph Turmero - 2025.
+  </h5>
+</footer>
 
 
 
