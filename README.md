@@ -12,28 +12,19 @@
 
 I’m **Joseph Turmero**, a passionate Full-Stack Web Developer in training. With hands-on experience in HTML, CSS, React, , Node.js, Git, Github, MongoDB, TypeScript, JavaScript, Angular, React and Figma, I love turning complex requirements into clean and easy to use interfaces. A proactive problem solver and collaborative team player, I am eager to learn new technologies and contribute to innovative e-commerce projects. Ready to bring fresh ideas and drive your next web development initiative.
 
-Translated with DeepL.com (free version)
+---
 
 ### Skills
 <img alt="Static Badge" src="https://img.shields.io/badge/Positiv-%20Optimistic-Green">/ <img alt="Static Badge" src="https://img.shields.io/badge/%20Punctual-Creative-blue"> / <img alt="Static Badge" src="https://img.shields.io/badge/%20Eager%20to%20evolve-brown"> /  <img alt="Static Badge" src="https://img.shields.io/badge/TeamPlayer-Collaborative-yellow">  /  <img alt="Static Badge" src="https://img.shields.io/badge/%20Eager%20to%20learn%20new%20technologies-purple"> /<img alt="Static Badge" src="https://img.shields.io/badge/Results%E2%80%91oriented-red"> / <img alt="Static Badge" src="https://img.shields.io/badge/%20Problem%E2%80%91solver-grey">  /  <img alt="Static Badge" src="https://img.shields.io/badge/Adaptable%20-%20Flexible-beige"> / <img alt="Static Badge" src="https://img.shields.io/badge/Detail%E2%80%91oriented-black"> /  <img alt="Static Badge" src="https://img.shields.io/badge/Innovative-navy">
 
-
-
-
-
-
-
-
-
-
-
+---
 
 
 
 ## :pencil2: My Works: :trophy:       
 <img src="https://cdn-icons-png.flaticon.com/512/2463/2463068.png" width="30px"> <h4>josephtur.github.io/ProjectJoseph/<h4/>
 
-
+---
 
  ## :trophy: Languages and Tools: :robot:
 
@@ -52,7 +43,7 @@ Translated with DeepL.com (free version)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 <br>
-
+---
 ##  <p align="start"> 📊 GitHub Statistics 📊 </p>
 
 <div align="center">
