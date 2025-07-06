@@ -2,7 +2,7 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
   <samp>
-    <img src="https://i.gifer.com/T0gT.gif" width="50px">Hola, Soy Joseph Turmero, Desarrollador web Full - Stack.<br>
+    <img src="https://i.gifer.com/F3Wt.gif" width="50px">Hola, Soy Joseph Turmero, Desarrollador web Full - Stack.<br>
     <img src="https://i.gifer.com/26t8.gif" width="50px">Hi, I'm Joseph Turmero Full‑Stack Web Developer. <br>
     <img src="https://i.gifer.com/JomZ.gif" width="50px">Hallo, ich bin Joseph Turmero Full‑Stack‑Webentwickler. 
     
