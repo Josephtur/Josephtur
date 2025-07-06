@@ -14,15 +14,9 @@
 
 
 ## :pencil2: My Works: :trophy:       
-- [Letskhabar](https://letskhabar.com)
-- [Vimal](https://vimal.letskhabar.com)
-- [IIITians-Network Ranchi](https://ranchi.iiitiansnetwork.com/)
-- [Covid-19](https://covid-19.letskhabar.com/)
-- [Letskhabar Dev](https://dev.letskhabar.com)
-- [Bob](https://github.com/vimalverma558/Bob)
-- ### :robot: Open Source Packages :octocat:
-  - prime-num is javascript packages for find primes number [Prime-num](https://www.npmjs.com/package/prime-num)
-  - Rive_design is Flutter Packages for Rive(Flare) [Rive_design](https://pub.dev/packages/rive_design)
+- [Letskhabar](josephtur.github.io/ProjectJoseph/)
+
+
 
  ## :trophy: Languages and Tools: :robot:
 
@@ -30,13 +24,9 @@
 
 
 ## :mailbox: Get in touch: 💬
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-linkedin.svg" width="30px">](https://www.linkedin.com/in/vimalverma558/)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-dev.svg" width="30px">](https://dev.to/vimal)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-twitter.svg" width="30px">](https://twitter.com/vimalverma558)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-important-mail.svg" width="30px">](mailto:kumarvimal558@gmail.com)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-website.svg" width="30px">](https://vimal.letskhabar.com)
+[<img src="https://static.vecteezy.com/system/resources/previews/022/498/173/original/3d-linkedin-logo-icon-isolated-on-transparent-background-free-png.png" width="30px">](https://www.linkedin.com/in/josephturmero/)
+[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-dev.svg" width="30px">](josephtur.github.io/ProjectJoseph/)
+[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-important-mail.svg" width="30px">](mailto:turmeroro@gmail.com)
 
------
-Credits: [vimalverma558](https://github.com/vimalverma558)
 
-Last Edited on: 03/09/2020
+
