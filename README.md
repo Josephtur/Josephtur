@@ -6,7 +6,7 @@
   </samp>
 </p>
 <br><br>
-<iframe src="https://gifer.com/embed/F96z" width=480 height=188.718 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">a través de GIFER</a></p>
+<img src="https://i.gifer.com/F96z.gif" width="100%">
 
 
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
