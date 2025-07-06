@@ -53,7 +53,7 @@ Translated with DeepL.com (free version)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 <br>
 
-##  <p align="center"> 📊 GitHub Statistics 📊 </p>
+##  <p align="start"> 📊 GitHub Statistics 📊 </p>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
