@@ -31,7 +31,7 @@ Ich bin **Joseph Turmero**, ein leidenschaftlicher Full‑Stack‑Webentwickle
 
 
 ## :pencil2: My Works: :trophy:       
-<img src="https://cdn-icons-png.flaticon.com/512/2463/2463068.png" width="30px"> <h4>josephtur.github.io/ProjectJoseph/<h4/>
+<img src="https://cdn-icons-png.flaticon.com/512/2463/2463068.png" width="30px"> <h4>josephtur.github.io/ProjectJoseph/</h4>
 
 ---
 
@@ -78,7 +78,7 @@ Ich bin **Joseph Turmero**, ein leidenschaftlicher Full‑Stack‑Webentwickle
 
 <footer>
   <h5>
-     &copy Dev-Joseph Turmero - 2025.
+   <p align="center">  &copy Dev-Joseph Turmero - 2025.</p>
   </h5>
 </footer>
 
