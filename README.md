@@ -53,7 +53,20 @@ Translated with DeepL.com (free version)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 <br>
 
-  
+##  <p align="center"> 📊 GitHub Statistics 📊 </p>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Estadisticas en Github" src="https://github-readme-stats.vercel.app/api?username=Josephtur&show_icons=true&count_private=true&locale=en&theme=chartreuse-dark&layout=compact&hide=issues" width="548px"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josephtur&langs_count=10&show_icons=true&locale=es&theme=outrun"  width="292px"/>
+</div>
+
+---
+
+#### 📈 Gráfico de Actividad
+![Luis David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Josephtur&theme=github-compact)
+
+
 
 ## :mailbox: Connect with me : 💬
 [<img src="https://static.vecteezy.com/system/resources/previews/022/498/173/original/3d-linkedin-logo-icon-isolated-on-transparent-background-free-png.png" width="30px">](https://www.linkedin.com/in/josephturmero/)
