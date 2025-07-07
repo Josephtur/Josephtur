@@ -10,15 +10,8 @@
 </p>
 <h1>About Me</h1>
 
-Soy **Joseph Turmero**, un apasionado Desarrollador Web Full‑Stack en formación. Con experiencia práctica en HTML, CSS, React, Node.js, Git, GitHub, MongoDB, TypeScript, JavaScript, Angular y Figma, me encanta transformar requisitos complejos en interfaces limpias y fáciles de usar. Proactivo a la hora de resolver problemas y colaborador nato en equipo, tengo muchas ganas de aprender nuevas tecnologías y aportar a proyectos digitales innovadores. Listo para aportar ideas frescas y liderar tu próxima iniciativa de desarrollo web. 
+ I’m **Joseph Turmero**, a passionate Full‑Stack Web Developer in training. With hands‑on experience in HTML, CSS, React, Node.js, Git, GitHub, MongoDB, TypeScript, JavaScript, Angular, and Figma, I love transforming complex requirements into clean and easy‑to‑use interfaces. Proactive in problem‑solving and a natural team player, I’m eager to learn new technologies and contribute to innovative digital projects. Ready to bring fresh ideas and lead your next web development initiative.
 <br>
-
-
-
-I’m **Joseph Turmero**,a passionate Full‑Stack Web Developer in training. With hands‑on experience in HTML, CSS, React, Node.js, Git, GitHub, MongoDB, TypeScript, JavaScript, Angular, and Figma, I love transforming complex requirements into clean and easy‑to‑use interfaces. Proactive in problem‑solving and a natural team player, I’m eager to learn new technologies and contribute to innovative digital projects. Ready to bring fresh ideas and lead your next web development initiative.
-<br>
-
-Ich bin **Joseph Turmero**, ein leidenschaftlicher Full‑Stack‑Webentwickler in Ausbildung. Mit praktischer Erfahrung in HTML, CSS, React, Node.js, Git, GitHub, MongoDB, TypeScript, JavaScript, Angular und Figma liebe ich es, komplexe Anforderungen in saubere und benutzerfreundliche Oberflächen zu verwandeln. Proaktiv bei der Problemlösung und ein geborener Teamplayer, bin ich motiviert, neue Technologien zu erlernen und zu innovativen digitalen Projekten beizutragen. Bereit, frische Ideen einzubringen und Ihre nächste Webentwicklungsinitiative zu leiten.
 
 
 ---
